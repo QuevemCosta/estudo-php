@@ -9,8 +9,9 @@
 			echo 'Utlizando a tag padrão '
 		?>
 		<br>
-		<?=
-			'tag de impressão'
-		?>
+		<?=	'tag de impressão'?><br>
+
+		<? echo 'tag curta' ?>
+
 	</body>
 </html>
