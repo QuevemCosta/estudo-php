@@ -56,6 +56,7 @@
 
 			<ul>
 				
+
 				<li><a href="cast_tipos.php">Sasting</a></li>
 			
 				<li><a href="operadores_aritimeticos.php">Operadores aritimeticos</a></li>
@@ -63,6 +64,17 @@
 				<li><a href="operadores_aritimeticos_atribuicao.php">Operadores aritimeticos/atribução</a></li>
 
 				<li><a href="operadores_incremento_decremento.php">Operadores de incremento e decremento</a></li>
+
+				<li><a href="funcoes.php">Funções</a></li>
+
+				<li><a href="imposto-renda.php">Exercicio Imposto de renda</a></li>
+
+				<li><a href="funcoes_strings.php">Funções para manipulação de strings</a></li>
+
+				<li><a href="funcoes_matematicas.php">Funções Matematicas php</a></li>
+
+				<li><a href="funcoes_datas.php">Funções para manipular datas</a></li>
+				<li><a href="arrey_basico.php">Arrey básico</a></li>
 			</ul>
 
 
