@@ -75,6 +75,9 @@
 
 				<li><a href="funcoes_datas.php">Funções para manipular datas</a></li>
 				<li><a href="arrey_basico.php">Arrey básico</a></li>
+				<li><a href="array_multdimencional.php">Arrey bidimencional</a></li>
+				<li><a href="array_pesquisa.php">Array-método de pesquisa</a></li>
+
 			</ul>
 
 
