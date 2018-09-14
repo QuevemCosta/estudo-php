@@ -77,6 +77,12 @@
 				<li><a href="arrey_basico.php">Arrey básico</a></li>
 				<li><a href="array_multdimencional.php">Arrey bidimencional</a></li>
 				<li><a href="array_pesquisa.php">Array-método de pesquisa</a></li>
+				<li><a href="false-null-empty.php">False, null e empty</a></li>
+				<li><a href="funcoes-array.php">Funções para tratamento de arrays</a></li>
+				<li><a href="loops-while.php">While</a></li>
+				<li><a href="do-while.php">Do-while</a></li>
+				<li><a href="for.php">For</li>
+				<li><a href="praticando_aray_loops.php">Loops e arrays</a></li>
 
 			</ul>
 
