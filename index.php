@@ -16,6 +16,7 @@
 			}
 			#principal{
 				width: 700px;
+				height: 1000px;
 				margin: 150px auto;
 				background: #086A87;
 				border: 2px solid grey;
@@ -81,8 +82,11 @@
 				<li><a href="funcoes-array.php">Funções para tratamento de arrays</a></li>
 				<li><a href="loops-while.php">While</a></li>
 				<li><a href="do-while.php">Do-while</a></li>
-				<li><a href="for.php">For</li>
 				<li><a href="praticando_aray_loops.php">Loops e arrays</a></li>
+				<li><a href="for.php">For</a></li>
+				<li><a href="loops-foreach.php">Loops Foreach</a></li>
+				<li><a href="loops-pratica-foreach.php">Pratica foreach</a></li>
+				<li><a href="atividade-foreach.php">Atividade foreach</a></li>			
 
 			</ul>
 
